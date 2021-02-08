@@ -5,4 +5,5 @@ all:	send
 
 send:	send_zamok
 send_zamok:
-	CP --exclude=.git ./ ${Szam}Info-Prepas-MP2I/
+	CP --exclude=./.git/ ./*.md ./{LICENSE.txt,Makefile} ${Szam}Info-Prepas-MP2I/
+        # find . -type d -exec "cd {}\; make send_zamok"
