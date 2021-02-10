@@ -1,3 +1,19 @@
+# Temp files
 *~
 .*.swp
+
+# Subdirectories
 *.git/
+
+# Symlinks
+corrections
+ipt
+modele
+mp2i
+mpi
+option-info
+premiere
+programme
+seconde
+terminale
+tronc-commun
