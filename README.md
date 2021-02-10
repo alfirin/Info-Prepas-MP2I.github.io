@@ -2,11 +2,12 @@
 
 Liste des projets de [cette "organisation" GitHub](https://github.com/Info-Prepas-MP2I) :
 
-- https://github.com/Info-Prepas-MP2I/Modele-de-livre-avec-Jupyter-Book
+- [Modèle de livre avec Jupyter Book](https://github.com/Info-Prepas-MP2I/Modele-de-livre-avec-Jupyter-Book.git)
+- TODO: [Le programme des cours d'informatique en prépas MP2I et MPI](https://github.com/Info-Prepas-MP2I/Programme-informatique-prepas-MP2I.git)
 
 ---
 
-## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io.svg)](https://github.com/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io/blob/master/LICENSE)
+## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io.svg)](https://github.com/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io/blob/master/LICENSE.txt)
 This repository are published under the terms of the [MIT License](https://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Info-Prepas-MP2I), 2021.
 
