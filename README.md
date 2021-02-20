@@ -34,7 +34,7 @@ This repository are published under the terms of the [MIT License](https://lbess
 © [Lilian Besson](https://GitHub.com/Info-Prepas-MP2I), 2021.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Info-Prepas-MP2I/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io/README.md?pixel)](https://GitHub.com/Info-Prepas-MP2I/Info-Prepas-MP2I.github.io/)
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
